@@ -27,7 +27,7 @@ Software Engineer with **3+ years of experience** building high-performance web 
 
 ## 📌 Featured Projects
 
-### ✈️ [Preflight — Forex Psychology & Trade Assistant](https://preflight-nine-liart.vercel.app/)
+### ✈️ [Preflight — Forex Psychology & Trade Assistant](https://preflight-trade.vercel.app/)
 *Full-Stack Web App (Next.js, TypeScript, Prisma, Gemini AI)*
 * Developed a pre-trade discipline assistant enforcing risk management rules before trade execution.
 * Integrated **Gemini Vision AI** and **Tesseract OCR** for automated trade data extraction from chart screenshots.
