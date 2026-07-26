@@ -10,7 +10,7 @@
 Software Engineer with **3+ years of experience** building high-performance web applications and cross-platform mobile apps. I specialize in bridging clean backend architecture with fast, intuitive user interfaces.
 
 * **Tech Focus:** React Native, Next.js, TypeScript, Python (FastAPI), Prisma, Supabase
-* **Current Project:** Building [Preflight](https://preflight-nine-liart.vercel.app/) — a pre-trade checklist & psychology platform for Forex traders using Gemini Vision AI.
+* **Current Project:** Building [Preflight](https://preflight-trade.vercel.app/) — a pre-trade checklist & psychology platform for Forex traders using Gemini Vision AI.
 
 ---
 
